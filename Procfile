@@ -1,1 +1,1 @@
-worker: bash UserBot
+worker: python3 startup
