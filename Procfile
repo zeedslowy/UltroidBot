@@ -1,2 +1,2 @@
-worker: python3 installer.sh
+bash: installer.sh
 
