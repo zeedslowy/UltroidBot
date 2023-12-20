@@ -46,11 +46,6 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-
-<p align="center"><a href="https://railway.app/template/hpW6Eu?referralCode=IcUiWT"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 ## Deploy Locally
 * TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
