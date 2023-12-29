@@ -1,1 +1,1 @@
-worker: bash installer.sh
+worker: bash startup
