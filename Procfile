@@ -1,1 +1,1 @@
-worker: bash startup
+python3 -m pyUltroid
