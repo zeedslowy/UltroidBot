@@ -3,3 +3,7 @@
 https://github.com/New-dev0/Telethon/archive/platy.zip
 python-decouple
 python-dotenv
+pyrogram==2.0.106
+tgcrypto
+heroku3
+
