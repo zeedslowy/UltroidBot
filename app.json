@@ -1,6 +1,6 @@
 
 {
-  "name": "Chat-Gpt",
+  "name": "User-Bot",
   "description": "A Telegram Best User Bot.",
   "logo": "https://te.legra.ph/file/9fa2101b77407dbec7d31.jpg",
   "keywords": [
@@ -32,4 +32,3 @@
     }
   },
   "repository": "https://github.com/zeedslowy/UserBot"
-}
