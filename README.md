@@ -23,9 +23,8 @@
 ----
 
 # Deploy
-- [Heroku](#deploy-to-heroku)
 - [Okteto](#deploy-to-okteto)
-- [Local Machine](#deploy-locally)
+- [Local Machine](https://ultroid.tech/docs/installation/local_deploy)
 
 # Documentation 
 [![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
@@ -38,12 +37,6 @@
 
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/zeedslowy/UserBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
